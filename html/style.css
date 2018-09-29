@@ -1,0 +1,195 @@
+body {
+	margin: 0 ;
+	padding: 0 ;
+	font-family: "Helvetica CE" ;
+	color: #333333 ;
+	font-size: 14px ;
+}
+.clear {
+	clear: both ;
+}
+
+#container {
+	width: 960px ;
+	margin: auto ;
+	background-color: #fff ;
+}
+img#logo {
+	float: left ;
+}
+.chinese {
+	font-family: "Arial Unicode" ;
+}
+table.header-table {
+	width: 100% ;
+	border-bottom: 2px solid #818285 ;
+	border-spacing: 0 ;
+}
+table.header-table td {
+	padding: 0 ;
+}
+td.ht-td-1 {
+	width: 72% ;
+	text-align: left ;
+}
+td.ht-td-1 table {
+	border-spacing: 0 ;
+}
+td.ht-td-2 {
+	width: 28% ;
+	text-align: right ;
+	/*background: #ccc ;*/
+}
+td.ht-td-2 table td {
+	border-left: 1px solid #17b1a9 ;
+	text-align: left ;
+}
+.header-name {
+	color: #0c5b94 ;
+	font-weight: bold ;
+}
+.header-date {
+	color: #58585a ;
+	font-weight: normal ;
+}
+table.footer-table td {
+	vertical-align: bottom ;
+}
+.title {
+	width: 100% ;
+	border-bottom: 2px solid #1fbdc7 ;
+}
+.t01-l {
+	float: left ;
+	color: #58585a ;
+	width: 92% ;
+}
+.t01-r {
+	float: left ;
+	width: 7% ;
+}
+p#cfi-comprised {
+	font-weight: bold ;
+}
+.bn {
+	font-family: "Big Noodle" ;
+}
+.fit-title {
+	color: #58585a ;
+}
+.fit-desc {
+	color: #58585a ;
+}
+.t02-l {
+	float: left ;
+	width: 5% ;
+	font-family: "Big Noodle" ;
+}
+.t02-m {
+	float: left ;
+	width: 86% ;
+}
+.t02-r {
+	float: left ;
+	width: 8% ;
+}
+table.col {
+	color: #58585a ;
+}
+td.col-1 {
+	width: 24% ;
+}
+table.fit-table {
+	width: 76% ;
+	margin: auto ;
+}
+table.fit-table td {
+	text-align: center ;
+}
+table.fit-table td.score {
+	background: #e7e7e8 ;
+	color: #000 ;
+	font-weight: bold ;
+}
+table.fit-table td.score-value {
+	color: #fff ;
+}
+table.fit-table td.fit-score {
+	width: 70pt ;
+	padding: 0 10pt 0 0 ;
+}
+table.fit-table td.fit-score table {
+	width: 100% ;
+	border-collapse: collapse ;
+}
+p.dimension-scores, p.guide-title {
+	font-weight: bold ;
+}
+.dimension-overlay {
+	z-index: 10 ;
+}
+table.vscore {
+	width: 100% ;
+	border-bottom: 2px dashed #bcbdc0 ;
+}
+p.pvsd {
+	margin: 0 ;
+	font-weight: bold ;
+}
+p.pvs {
+	margin: 0 ;
+}
+td.vscore-1 {
+	width: 70% ;
+	padding: 0 ;
+	text-align: justify ;
+	padding-bottom: 16pt ;
+}
+td.vscore-2 {
+	width: 15% ;
+	text-align: center ;
+	padding: 0 25pt ;
+	padding-bottom: 16pt ;
+}
+td.vscore-3 {
+	width: 15% ;
+	padding: 0 ;
+	text-align: center ;
+	padding-bottom: 16pt ;
+}
+.dd {
+	border: 1px dashed #bcbdc0 ;
+}
+.dd p {
+	margin: 0 ;
+}
+.dd table {
+	width: 100% ;
+}
+td.vstyle {
+	font-weight: bold ;
+	text-align: center ;
+	vertical-align: bottom ;
+}
+table#project-focus {
+	width: 100% ;
+}
+table#interview-questions {
+	width: 100% ;
+	border-collapse: collapse ;
+}
+/*table#delivery-focus td {
+	background: yellow ;
+}*/
+td.proc, td.deliv, td.proc-prc, td.deliv-prc {
+	text-align:center ;
+	padding: 0 ;
+	margin: 0 ;
+}
+td.interview-questions-1 {
+	width: 6% ;
+	vertical-align: top ;
+}
+td.interview-questions-2 {
+	vertical-align: top ;
+}

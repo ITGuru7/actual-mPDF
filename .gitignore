@@ -1,0 +1,9 @@
+data/
+page-image/
+src/
+tmp/
+ttfonts/
+vendor/
+composer.json
+composer.lock
+*.pdf

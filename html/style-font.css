@@ -1,0 +1,30 @@
+@font-face {
+	font-family: "Helvetica CE" ;
+	src:url(fonts/HelveticaCERegular.ttf) format('truetype');
+}
+@font-face {
+	font-family: "Helvetica CE Thin" ;
+	src:url(fonts/HelveticaCEThin.ttf) format('truetype');
+}
+@font-face {
+	font-family:"Helvetica LT CondensedBlack";
+	src:url(fonts/HelveticaLTCondensedBlack.ttf) format('truetype');
+}
+@font-face {
+	font-family:"Big Noodle";
+	src:url(fonts/big_noodle_titling.ttf) format('truetype');
+}
+@font-face {
+	font-family:"Arial Unicode";
+	src:url(fonts/ARIALUNI.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'AvenirLTBlack';
+    src: url(fonts/AvenirLTBlack.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'AvenirLTRoman';
+    src: url(fonts/AvenirLTRoman.ttf) format('truetype');
+}
